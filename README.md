@@ -24,7 +24,7 @@ This project predicts whether a driver will churn using demographic, performance
 
 
 | Column Name              | Description                                                              |
-+--------------------------+--------------------------------------------------------------------------+
+|--------------------------|--------------------------------------------------------------------------|
 | MMM-YY                   | Reporting month (e.g., Jan-20, Feb-20)                                   |
 | Driver_ID                | Unique identifier for each driver                                        |
 | Age                      | Age of the driver                                                        |
@@ -38,4 +38,3 @@ This project predicts whether a driver will churn using demographic, performance
 | Grade                    | Driver’s grade at reporting time                                         |
 | Total Business Value     | Monthly business value (negative = cancellations/refunds/EMI adjustments)|
 | Quarterly Rating         | Driver’s quarterly rating (1–5; higher is better)                        |
-
