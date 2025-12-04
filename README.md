@@ -1,31 +1,26 @@
 # OLA-Driver-Churn-Prediction-Using-Ensemble-Models
-##Problem Statement
+
+## Problem Statement
 
 Ola faces a high churn rate among its drivers, which increases acquisition costs and affects operational stability. Retaining existing drivers is far more economical than recruiting new ones.
 This project predicts whether a driver will churn using demographic, performance, and financial attributes.
 
-  Objectives
+## Objectives
 
-Predict whether a driver will churn in upcoming months.
+* Predict whether a driver will churn in upcoming months.
+* Identify the most influential factors contributing to attrition.
+* Compare Bagging vs Boosting performance.
+* Provide actionable business insights for driver retention.
 
-Identify the most influential factors contributing to attrition.
+## Models Used
 
-Compare Bagging vs Boosting performance.
+## Bagging
+* Random Forest Classifier
+## Boosting
+* Gradient Boosting Classifier
+* XGBoost Classifier
 
-Provide actionable business insights for driver retention.
-
-Models Used
-Bagging
-
-Random Forest Classifier
-
-Boosting
-
-Gradient Boosting Classifier
-
-XGBoost Classifier
-
-Dataset:
+## Dataset:
 +--------------------------+--------------------------------------------------------------------------+
 | Column Name              | Description                                                              |
 +--------------------------+--------------------------------------------------------------------------+
